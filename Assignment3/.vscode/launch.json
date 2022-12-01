@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Pattern21",
+            "request": "launch",
+            "mainClass": "Pattern21",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern20",
+            "request": "launch",
+            "mainClass": "Pattern20",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern19",
+            "request": "launch",
+            "mainClass": "Pattern19",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern18",
+            "request": "launch",
+            "mainClass": "Pattern18",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern14",
+            "request": "launch",
+            "mainClass": "Pattern14",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern13",
+            "request": "launch",
+            "mainClass": "Pattern13",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern25",
+            "request": "launch",
+            "mainClass": "Pattern25",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern17",
+            "request": "launch",
+            "mainClass": "Pattern17",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern16",
+            "request": "launch",
+            "mainClass": "Pattern16",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern24",
+            "request": "launch",
+            "mainClass": "Pattern24",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern23",
+            "request": "launch",
+            "mainClass": "Pattern23",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern15",
+            "request": "launch",
+            "mainClass": "Pattern15",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern22",
+            "request": "launch",
+            "mainClass": "Pattern22",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern11",
+            "request": "launch",
+            "mainClass": "Pattern11",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern9",
+            "request": "launch",
+            "mainClass": "Pattern9",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern8",
+            "request": "launch",
+            "mainClass": "Pattern8",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern7",
+            "request": "launch",
+            "mainClass": "Pattern7",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern6",
+            "request": "launch",
+            "mainClass": "Pattern6",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern5",
+            "request": "launch",
+            "mainClass": "Pattern5",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern10",
+            "request": "launch",
+            "mainClass": "Pattern10",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dummy",
+            "request": "launch",
+            "mainClass": "Dummy",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "Assignment3_9ae2b0c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "Assignment3_9ae2b0c"
+        }
+    ]
+}
